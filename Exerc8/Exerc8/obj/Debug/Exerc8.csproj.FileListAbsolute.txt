@@ -1,0 +1,7 @@
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\bin\Debug\Exerc8.exe.config
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\bin\Debug\Exerc8.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\bin\Debug\Exerc8.pdb
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\obj\Debug\Exerc8.csproj.AssemblyReference.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\obj\Debug\Exerc8.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\obj\Debug\Exerc8.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc8\Exerc8\obj\Debug\Exerc8.pdb
