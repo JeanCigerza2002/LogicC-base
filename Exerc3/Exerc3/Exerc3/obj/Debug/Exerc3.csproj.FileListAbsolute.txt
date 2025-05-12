@@ -1,0 +1,7 @@
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\bin\Debug\Exerc3.exe.config
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\bin\Debug\Exerc3.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\bin\Debug\Exerc3.pdb
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\obj\Debug\Exerc3.csproj.AssemblyReference.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\obj\Debug\Exerc3.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\obj\Debug\Exerc3.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc3\Exerc3\Exerc3\obj\Debug\Exerc3.pdb

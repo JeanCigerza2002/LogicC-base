@@ -1,0 +1,7 @@
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\bin\Debug\Exerc4.exe.config
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\bin\Debug\Exerc4.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\bin\Debug\Exerc4.pdb
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\obj\Debug\Exerc4.csproj.AssemblyReference.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\obj\Debug\Exerc4.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\obj\Debug\Exerc4.exe
+F:\PROGRAMAÇÃO\Logica_ProgC#\Exerc4\Exerc4\Exerc4\obj\Debug\Exerc4.pdb
